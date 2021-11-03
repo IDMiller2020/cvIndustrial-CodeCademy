@@ -1,4 +1,5 @@
 ## Welcome to CV Industrial
+This would be a way to create a static page to present information and use a pre-made theme.  I don't think this will work for a fully functional e-comerce website.
 
 You can use the [editor on GitHub](https://github.com/IDMiller2020/cvIndustrial-CodeCademy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
